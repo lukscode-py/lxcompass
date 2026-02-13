@@ -25,22 +25,22 @@ LX Compass++ is an addon that allows you to locate structures and biomes anywher
 ## Images
 
 ### Dimension Selection Menu
-![Menu Initial](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/menu_inicial_com_selencao_dimensao_e_opcao_de_configs.png)
+![Menu Initial](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/menu_inicial_com_selencao_dimensao_e_opcao_de_configs.png)
 
 ### Language Selection
-![Language](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/menu_selencao_de_lingua.png)
+![Language](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/menu_selencao_de_lingua.png)
 
 ### Category Selection
-![Category](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/menu_selecao_da_categoria_estrutura_or_bioma.png)
+![Category](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/menu_selecao_da_categoria_estrutura_or_bioma.png)
 
 ### Structures List
-![Structures](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/menu_lista_estrutura_e_botao_pesquisa_la_no_topo.png)
+![Structures](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/menu_lista_estrutura_e_botao_pesquisa_la_no_topo.png)
 
 ### Biomes List (Nether)
-![Biomes](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/menu_lista_bioma_nether_e_botao_de_pesquisa_no_topo.png)
+![Biomes](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/menu_lista_bioma_nether_e_botao_de_pesquisa_no_topo.png)
 
 ### Settings Menu
-![Settings](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/Imagens-para-ser-utilizadas-tutorial/dentro_menu_configuracao_com_opcao_troca_lingua.png)
+![Settings](https://raw.githubusercontent.com/lukscode-py/lxcompass/refs/heads/main/dentro_menu_configuracao_com_opcao_troca_lingua.png)
 
 ## Supported Structures
 
